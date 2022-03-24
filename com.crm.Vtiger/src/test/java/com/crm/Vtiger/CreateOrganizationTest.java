@@ -8,6 +8,9 @@ public class CreateOrganizationTest
 	public void createOrg()
 	{
 		System.out.println("Organization created");
+		System.out.println("Organization updated");
+		System.out.println("Organization deleted");
+		
 	}
 
 }
