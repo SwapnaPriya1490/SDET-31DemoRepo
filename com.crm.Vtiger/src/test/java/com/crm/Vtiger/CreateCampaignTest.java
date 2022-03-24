@@ -14,5 +14,11 @@ public class CreateCampaignTest
 	{
 		System.out.println("Campaign modified");
 	}
+	
+	@Test
+	public void deleteCampaign()
+	{
+		System.out.println("Campaign deleted");
+	}
 
 }
