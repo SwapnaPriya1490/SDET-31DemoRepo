@@ -8,6 +8,7 @@ public class CreateOrgTest
 	public void delete()
 	{
 		System.out.println("Org is deleted");
+		System.out.println("github created");
 	}
 
 }
