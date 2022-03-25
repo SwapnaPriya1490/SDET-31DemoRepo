@@ -19,6 +19,8 @@ public class CreateCampaignTest
 	public void deleteCampaign()
 	{
 		System.out.println("Campaign deleted");
+		
+		System.err.println("conflict");
 	}
 
 }
