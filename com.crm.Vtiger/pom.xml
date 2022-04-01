@@ -4,6 +4,8 @@
   <artifactId>com.crm.Vtiger</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
+  
+  
   <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 <dependency>
     <groupId>mysql</groupId>
